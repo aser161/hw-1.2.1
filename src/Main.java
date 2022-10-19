@@ -10,7 +10,7 @@ public class Main {
         var paper = 763789;
         System.out.println(paper);
 
-        // Задача 2
+         // Задача 2
         System.out.println("Задача 2");
         dog = dog + 4;
         System.out.println(dog);
